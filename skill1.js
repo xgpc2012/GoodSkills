@@ -32,3 +32,5 @@ function check2() {
 }
 
 // 主分支上提交了一个commit A
+
+// 主分支上提交了一个commit B
