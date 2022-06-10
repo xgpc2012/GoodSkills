@@ -30,3 +30,5 @@ function check2() {
         return;
     }
 }
+
+// 主分支上提交了一个commit A
